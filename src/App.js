@@ -1,10 +1,10 @@
 import React from "react";
-import { CreateTime } from "./component";
+import { CreateTime, Notes } from "./component";
 
 const App = () => {
   return (
     <>
-      <CreateTime />
+      <Notes />
     </>
   );
 };
